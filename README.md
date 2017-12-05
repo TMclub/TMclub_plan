@@ -15,7 +15,7 @@
 
 （1）C++：[马玉杰](https://github.com/Youmo742)
  
-（2）java：[王小虎](https://github.com/StormWangxhu)，勉朋林，[马和德](https://github.com/Mahede080210)，马亮
+（2）java：[王小虎](https://github.com/StormWangxhu)，勉朋林，[马和德](https://github.com/Mahede080210)，马亮，李志勇
 
   （3）C语言：杨思波，勉朋林，王晟，
 
@@ -39,7 +39,7 @@
 
    (1)[点击观看前端学习路线图]()：
 
-  （2）[点击观看后端学习路线图](http://lib.csdn.net/qq_40910541/597898/chart/JavaOfMaheder)
+   (2)[点击观看后端学习路线图](http://lib.csdn.net/qq_40910541/597898/chart/JavaOfMaheder)
   
  １.java路线规划
  
