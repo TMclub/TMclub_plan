@@ -52,12 +52,11 @@
   ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1512490515404&di=9e247fb4d47c61dff6165d6eb1cc9a5f&imgtype=0&src=http%3A%2F%2Fwww.kfzimg.com%2FG00%2FM00%2F82%2F53%2FoYYBAFbfe4mAFhC5AAE1eMiFp3c203_b.jpg)
   ![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1513085284&di=9d6d71906740873abdd5a43eebc88bea&imgtype=jpg&er=1&src=http%3A%2F%2Fimg30.ddimg.cn%2F4%2F24%2F9317290-1_e.jpg)
 
-----------------
-    阶段二：数据结构与算法
-    阶段三：数据库与JDBC（数据库推荐《MySQL》，JDBC推荐《新手学java》）
-    阶段四：网络编程（推荐《新手学java》）
-    
-
+```
+> 阶段二：数据结构与算法
+> 阶段三：数据库与JDBC（数据库推荐《MySQL》，JDBC推荐《新手学java》） 
+> 阶段四：网络编程（推荐《新手学java》）
+```
 二.项目
 -------------------------
 	（1）新手项目：
